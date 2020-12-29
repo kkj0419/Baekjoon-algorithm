@@ -1,5 +1,4 @@
 # Baekjoon-algorithm
-Baekjoon source code
 <!DOCTYPE html>
 <html>
   <body>
