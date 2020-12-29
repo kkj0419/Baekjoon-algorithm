@@ -10,13 +10,13 @@ Baekjoon source code
     <h3>CODE</h3>
     <p>
       <a href="https://github.com/kkj041찾9/Baekjoon-algorithm/blob/master/darr.cpp">
-        1822:차집합 - arr 이용</a><br>
+        1822 : 차집합 - arr 이용</a><br>
       <a href="https://github.com/kkj0419/Baekjoon-algorithm/blob/master/dset.cpp">
-        1822:차집합 - set 이용</a><br>
+        1822 : 차집합 - set 이용</a><br>
       <a href="https://github.com/kkj0419/Baekjoon-algorithm/blob/master/binaryTree.cpp">
-        1539:이진 검색 트리 - binaryTree 구현, 시간 초과 </a><br>
+        1539 : 이진 검색 트리 - binaryTree 구현, 시간 초과 </a><br>
       <a href="https://github.com/kkj0419/Baekjoon-algorithm/blob/master/setlevel.cpp">
-        1539:이진 검색 트리 - lower_bound 이용</a><br>
+        1539 : 이진 검색 트리 - lower_bound 이용</a><br>
     </p>
       
   </body>
