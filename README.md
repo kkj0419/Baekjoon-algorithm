@@ -16,6 +16,7 @@
     <hr align="left" width="90%">
     <h3>CODE</h3>
     <p>
+      <div id="content" style="text-decoration:none;">
       <ul style="list-style-type:disc">
       <li>
       <a href="https://github.com/kkj041찾9/Baekjoon-algorithm/blob/master/darr.cpp">
@@ -30,6 +31,7 @@
       <a href="https://github.com/kkj0419/Baekjoon-algorithm/blob/master/setlevel.cpp">
         1539 : 이진 검색 트리 - lower_bound 이용</a><br></li>
     </ul>
+    </div>
     </p>
   <p>
   <footer class="footer"><small>2020-12-29 수정</small><footer>
