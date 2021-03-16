@@ -15,6 +15,7 @@
     </a>
     <hr align="left" width="90%">
     <h3>CODE</h3>
+    <!--
     <p>
       <div id="content" style="text-decoration:none;">
       <ul style="list-style-type:disc">
@@ -39,6 +40,7 @@
     </ul>
     </div>
     </p>
+    -->
   <p>
   <footer class="footer"><small>2020-12-29 수정</small><footer>
   </p>
